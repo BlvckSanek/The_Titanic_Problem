@@ -54,4 +54,8 @@ After analyzing the dataset and building predictive models, we achieved [accurac
 
 In conclusion, this project demonstrates the process of analyzing the Titanic dataset and building machine learning models to predict passenger survival. By leveraging various techniques and algorithms, we can gain valuable insights into historical events and make informed predictions about future outcomes. Well this was my proper attempt on a dataset for my Data Science journey. More to come.
 
+## License
+
+The Titanic Problem was created by Emmanuel Arkoh-Nelson. It is licensed under the terms of the MIT license.
+
 For any questions or feedback, feel free to contact [Sanek/arkohnelsonemmanuel@gmail.com].
